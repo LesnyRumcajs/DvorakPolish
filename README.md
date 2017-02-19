@@ -7,3 +7,5 @@ DvorakPolish Layout for Windows
 3. Run Setup
 4. You should be able to switch between DVORAK and QWERTY Polish layout with CTRL+SHIFT.
 
+# How to remove
+Delete related registry entry in HKEY_LOCAL_MACHINE/SYSTEM/Control/Keyboard Layouts
